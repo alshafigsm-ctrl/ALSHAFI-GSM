@@ -1,0 +1,6 @@
+{
+  "name": "Rashid Mukhtiar Advocate",
+  "description": "Legal practice management, advocate diary, cause list, client appointments & marketing portfolio for Rashid Mukhtiar Advocate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
